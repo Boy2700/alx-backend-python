@@ -1,1 +1,2 @@
-0x00-python_variable_annotations
+# ALX Backend Python
+Repository of Backend projects in Python.
